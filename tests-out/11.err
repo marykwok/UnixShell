@@ -1,0 +1,5 @@
+ls: cannot access 'tests/p2a-test>/tmp/output11': No such file or directory
+cat: /tmp/output11: No such file or directory
+A NULL argv[0] was passed through an exec system call.
+free(): double free detected in tcache 2
+/p/course/cs537-remzi/tests/tester/run-tests.sh: line 27: 1750476 Aborted                 (core dumped) ./wish tests/11.in
