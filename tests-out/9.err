@@ -1,3 +1,0 @@
-A NULL argv[0] was passed through an exec system call.
-free(): double free detected in tcache 2
-/p/course/cs537-remzi/tests/tester/run-tests.sh: line 27: 1750447 Aborted                 (core dumped) ./wish tests/9.in

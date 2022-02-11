@@ -1,4 +1,0 @@
-An error has occurred
-free(): double free detected in tcache 2
-free(): double free detected in tcache 2
-/p/course/cs537-remzi/tests/tester/run-tests.sh: line 27: 1750517 Aborted                 (core dumped) ./wish tests/15.in

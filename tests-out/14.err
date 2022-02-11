@@ -1,1 +1,0 @@
-/p/course/cs537-remzi/tests/tester/run-tests.sh: line 27: 1750508 Segmentation fault      (core dumped) ./wish tests/p2a-tests/bad

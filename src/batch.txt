@@ -1,0 +1,10 @@
+echo Hello!
+echo listing your current directory ...
+ls -l .
+echo changing to your root directory
+cd ~/
+echo listing your root directory
+ls -l .
+echo Goodbye!
+exit
+
