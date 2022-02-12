@@ -1,7 +1,8 @@
 
 A basic Unix shell capable of looping commands, redirecting output, and processing batch commands fed through .txt files. Try it in your local Linux terminal!
 
-###Usage
+### Usage
+
 Enter 
 ```
 ./shell 
